@@ -20,7 +20,7 @@
   },
   {
     "podcastName": "flow",
-    "episode": "tnc - Flow #339",
+    "episode": "Richard Gere - Flow #339",
     "videoId": "55555555555555",
     "categories": [
       "esporte",
@@ -29,8 +29,17 @@
   },
   {
     "podcastName": "venus",
-    "episode": "gayyyyyyyyyyy - Flow #339",
-    "videoId": "232222222222222",
+    "episode": "Richard Rasmussen - Flow #339",
+    "videoId": "0000000000000",
+    "categories": [
+      "esporte",
+      "corrida"
+    ]
+  },
+  {
+    "podcastName": "venus",
+    "episode": "Richard  - Flow #339",
+    "videoId": "1234567890123",
     "categories": [
       "esporte",
       "corrida"
